@@ -1,1 +1,1 @@
-# TP SOLID Principle
+# TP SOLID
